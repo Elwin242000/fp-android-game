@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SnakePreyGame</string>
+    <string name="logo_game">TKX GAME</string>
+    <string name="btn_play">PLAY</string>
+    <string name="btn_how_to_play">HOW TO PLAY</string>
+    <string name="btn_setting">SETTING</string>
+    <string name="btn_change">CHANGE</string>
+    <string name="title_setting">SETTING SOUND</string>
+    <string name="sound_music_on">ON</string>
+    <string name="sound_music_off">OFF</string>
+    <string name="sound_name">MUSIC: </string>
+    <string name="tutorial_title">TUTORIAL</string>
+    <string name="up_text">: swipe up to go up</string>
+    <string name="right_text">: swipe right to go right</string>
+    <string name="down_text">: swipe down to go down</string>
+    <string name="left_text">: swipe left to go left</string>
+    <string name="select_level_title">LEVEL</string>
+    <string name="choose_snake_title">CHOOSE SNAKE</string>
+    <string name="btn_select">SELECT</string>
+    <string name="btn_selected">SELECTED</string>
+</resources>
